@@ -1,0 +1,1 @@
+This project will be a simple page with recipes
